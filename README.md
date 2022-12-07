@@ -1,3 +1,3 @@
 # glitch
-##Editing the file
-it's a Markdown file
+## Editing the file
+It's a Markdown file
